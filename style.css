@@ -60,7 +60,10 @@ body {
     font-weight: bold;
 }
 
-
+.logo{
+    height:80px;
+    width:80px'
+}
 section {
     padding: 60px 20px;
     margin-top: 20px;
